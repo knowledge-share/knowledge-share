@@ -10,6 +10,8 @@
 2. 联系管理员申请加入
 3. 管理员发送邀请，在邮件中接受邀请，如下图![](/assets/import.png)
 4. 下载[gitbook客户端](https://www.gitbook.com/editor/windows/download "gitbook")
+5. 打开gitbook客户端![](/assets/openGitbook.png)
+6. 点击open导入clone下来的仓库
 
 
 

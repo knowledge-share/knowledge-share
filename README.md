@@ -13,6 +13,7 @@
 5. 打开gitbook客户端![](/assets/openGitbook.png)
 6. 将仓库克隆到本地，可以用github客户端或git命令行`git clone https://github.com/knowledge-share/knowledge-share.git`
 7. 点击open找到刚才的仓库就可以编辑了
+8. 目前不允许直接push到master分支
 
 
 
